@@ -4,6 +4,7 @@ git commit -m "Initial commit"
 
 # dependencies
 /node_modules
+.vscode
 /.pnp
 .pnp.*
 .yarn/*
