@@ -3,7 +3,7 @@ import Title from "./title"
 
 const Header = () => {
     return (
-        <div className="flex mt-5 justify-between">
+        <div className="flex flex-col items-center gap-4">
             <Title/>
             <Navigation/>
         </div>
