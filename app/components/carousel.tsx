@@ -15,8 +15,8 @@ const CarouselNext = () => {
                             className="mt-16"
                             src={image.src}
                             alt={image.alt}
-                            width={1400}
-                            height={400}
+                            width={image.width}
+                            height={720}
                         />
                     </div>
                 ))}

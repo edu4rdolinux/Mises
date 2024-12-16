@@ -1,10 +1,14 @@
 [
     {
         "src": "/clube_mises.png",
-        "alt": "Clube Mises"
+        "alt": "Clube Mises",
+        "width": 1920,
+        "height": 720
     },
     {
         "src": "/escola_austriaca.png",
-        "alt": "Escola Austríaca de Economia"
+        "alt": "Escola Austríaca de Economia",
+        "width": 1920,
+        "height": 720
     }
 ]
