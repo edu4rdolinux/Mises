@@ -1,9 +1,10 @@
 import '../globals.scss';
+import MisesText from './misesText';
 
 const Title = () => {
     return (
         <h1 className="Title text-4xl">
-            Instituto <span className="text-RedPrimary">Mises</span>
+            Instituto <MisesText/>
         </h1>
     );
 };
