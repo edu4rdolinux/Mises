@@ -12,7 +12,7 @@ const CarouselNext = () => {
                 {images.map((image, index) => (
                     <div key={index}>
                         <Image
-                            className="mt-16"
+                            className="mt-8"
                             src={image.src}
                             alt={image.alt}
                             width={image.width}
