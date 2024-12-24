@@ -9,6 +9,7 @@
   --background: #00202D;
   --foreground: #EEEFF1;
   --red-primary: #E02042;
+  --gray-primary: #8e8e8e;
 }
 
 body {
@@ -20,6 +21,10 @@ body {
   font-family: "Kadwa", serif;
   font-weight: 500;
   font-style: normal;
+}
+
+.Icon {
+  color: var(--red-primary);
 }
 
 .text-RedPrimary {
